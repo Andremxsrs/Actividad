@@ -1,0 +1,16 @@
+C:\Users\Yrwach\Desktop\C\Constructores\Constructores\obj\Debug\Constructores.csproj.AssemblyReference.cache
+C:\Users\Yrwach\Desktop\C\Constructores\Constructores\obj\Debug\Constructores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yrwach\Desktop\C\Constructores\Constructores\obj\Debug\Constructores.csproj.CoreCompileInputs.cache
+C:\Users\Yrwach\Desktop\C\Constructores\Constructores\bin\Debug\Constructores.exe.config
+C:\Users\Yrwach\Desktop\C\Constructores\Constructores\bin\Debug\Constructores.exe
+C:\Users\Yrwach\Desktop\C\Constructores\Constructores\bin\Debug\Constructores.pdb
+C:\Users\Yrwach\Desktop\C\Constructores\Constructores\obj\Debug\Constructores.exe
+C:\Users\Yrwach\Desktop\C\Constructores\Constructores\obj\Debug\Constructores.pdb
+C:\Users\Yrwach\Desktop\Constructores\Constructores\obj\Debug\Constructores.csproj.AssemblyReference.cache
+C:\Users\Yrwach\Desktop\Constructores\Constructores\obj\Debug\Constructores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yrwach\Desktop\Constructores\Constructores\obj\Debug\Constructores.csproj.CoreCompileInputs.cache
+C:\Users\Yrwach\Desktop\Constructores\Constructores\obj\Debug\Constructores.exe
+C:\Users\Yrwach\Desktop\Constructores\Constructores\obj\Debug\Constructores.pdb
+C:\Users\Yrwach\Desktop\Constructores\Constructores\bin\Debug\Constructores.exe.config
+C:\Users\Yrwach\Desktop\Constructores\Constructores\bin\Debug\Constructores.exe
+C:\Users\Yrwach\Desktop\Constructores\Constructores\bin\Debug\Constructores.pdb
